@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 진행중인 프로젝트↓  
 [🐕‍멍친구🐕‍](https://mungfriend.com/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yebin76)](https://github.com/anuraghazra/github-readme-stats)
