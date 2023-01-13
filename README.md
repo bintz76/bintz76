@@ -3,7 +3,6 @@
 
 프론프엔드 개발자를 희망하면서 배우고 있습니다😊  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yebin&show_icons=true&theme=jolly)  
 ## 👾블로그
  [블로그](https://yebin76.github.io/)  
  
@@ -12,3 +11,4 @@
 
 ## Most Used Langs
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yebin76&show_icons=true&theme=dark)
