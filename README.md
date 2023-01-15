@@ -8,5 +8,4 @@
  
 ## 💛진행중인 프로젝트
 [🐕‍멍친구🐕‍](https://mungfriend.com/)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiyebin76)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiyebin76=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
