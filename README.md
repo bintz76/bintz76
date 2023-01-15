@@ -11,4 +11,4 @@
 
 ## Most Used Langs
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[yebin]&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yebin76&show_icons=true&theme=dark)
