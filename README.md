@@ -9,6 +9,4 @@
 ## 💛진행중인 프로젝트
 [🐕‍멍친구🐕‍](https://mungfriend.com/)
 
-## Most Used Langs
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yebin76&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiyebin76)](https://github.com/anuraghazra/github-readme-stats)
