@@ -7,8 +7,7 @@
  [블로그](https://yebin76.github.io/)  
  
 ## 💛진행중인 프로젝트
-[🐕‍멍친구🐕‍](https://mungfriend.com/)  
-[MealsToGo](https://github.com/yebin76/MealsToGo)
+[🐕‍멍친구🐕‍]()  
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yebin76)](https://github.com/yebin76/github-readme-stats)
