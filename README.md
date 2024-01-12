@@ -15,4 +15,4 @@
 [🐕‍멍친구🐕‍](https://github.com/jjugwen/MungFriend_FE)  
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yebin76)](https://github.com/yebin76/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bintz76)](https://github.com/bintz76/github-readme-stats)
