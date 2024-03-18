@@ -7,7 +7,7 @@
  [블로그](https://bintz76.github.io/)  
 
 ## 🔵진행중🔵
-[MANNA](https://github.com/team-manna/manna)
+[MANNA](https://github.com/team-manna/manna)  
 [MY-CLOSET]()
 
 
