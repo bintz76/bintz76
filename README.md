@@ -6,10 +6,6 @@
 ## 👾블로그
  [블로그](https://bintz76.github.io/)  
 
-## 🔵진행중🔵
-[MANNA](https://github.com/team-manna/manna)  
-[MY-CLOSET]()
-
 
 ## 💛끝난 프로젝트
 [🐕‍멍친구🐕‍](https://github.com/jjugwen/MungFriend_FE)  
